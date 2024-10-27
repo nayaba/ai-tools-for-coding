@@ -4,6 +4,21 @@
 
 ---
 
+## What is academic misconduct?
+
+Academic misconduct is any word, action, or deed performed alone, or with others for the direct or indirect intention of providing an unfair advantage or benefit to yourself or other student(s).
+
+General Assembly has a zero-tolerance policy towards plagiarism, cheating, and dishonesty. **Any work considered to have been plagiarized will not be accepted and will not count toward
+graduation requirements. If a student project exhibits evidence of plagiarism or cheating, the student will not be able to display the project in their portfolio.**
+
+Plagiarism involves both stealing someone else's work or idea and lying about it afterward; an act of cheating. **Plagiarized work includes turning in code that you didn’t write** or building someone else’s idea without giving credit.
+
+In other words: Academic misconduct is any action that gives unfair help to yourself or others.  Plagiarism includes using code you didn’t write or others' ideas without giving credit. Stay honest to learn and succeed.
+
+So if submitting code that you didn't write is considered plagiarism, submitting code that ChatGPT wrote for you is therefore considered plagiarism.  Does that mean you can never take advantage of AI tools like Chat GPT while in this course?  No, it doesn't - keep reading to see in what ways ChatGPT can help you learn to code without compromising your integrity.
+
+---
+
 #### 1. **Why ChatGPT?**
    - ChatGPT can be like a guide in your journey to becoming a coder. It can assist you in understanding complex concepts or generating ideas, but it’s not a substitute for doing the work yourself.
    - **Key Point:** Completing tasks with ChatGPT’s help alone means missing out on vital learning opportunities.
@@ -19,6 +34,8 @@
 
 #### 4. **Experiment with ChatGPT’s Limitations**
    - **Prompt to Try:** Type in, `How many r's are in strawberry?` See if ChatGPT gives the correct answer. This exercise shows that AI can make mistakes, especially with simple tasks, reinforcing why you need to develop a strong coding skill set of your own.
+
+
 
 ---
 
