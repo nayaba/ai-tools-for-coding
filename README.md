@@ -29,7 +29,7 @@ So if submitting code that you didn't write is considered plagiarism, submitting
    - **Writing ReadMe Files:** For more advanced projects, ChatGPT can be helpful for drafting ReadMe files, but remember to personalize them with your own project details.
 
 #### 3. **When NOT to Use ChatGPT**
-   - **Homework & Labs:** Doing these independently helps you build a foundation in coding. Even if it’s challenging or imperfect, your own solutions will teach you valuable skills.
+   - **Homework & Lab Answers:** Doing these independently helps you build a foundation in coding. Even if it’s challenging or imperfect, your own solutions will teach you valuable skills.
    - **Critical Thinking in Coding:** Understanding what’s right or wrong in code is a skill only practice can build. Without it, you won’t know if GPT is giving correct information.
 
 #### 4. **Experiment with ChatGPT’s Limitations**
