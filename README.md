@@ -24,7 +24,7 @@ So if submitting code that you didn't write is considered plagiarism, submitting
    - **Key Point:** Completing tasks with ChatGPT’s help alone means missing out on vital learning opportunities.
 
 #### 2. **When ChatGPT Can Help You**
-   - **Explaining Concepts:** If you’re stuck on code you don’t understand, ask ChatGPT to break it down, especially if you want explanations in Arabic.
+   - **Explaining Concepts:** If you’re stuck on code you don’t understand, ask ChatGPT to break it down, especially if you want explanations in another language.
    - **Generating Ideas:** ChatGPT can help with project names or brainstorming ideas.
    - **Writing ReadMe Files:** For more advanced projects, ChatGPT can be helpful for drafting ReadMe files, but remember to personalize them with your own project details.
 
