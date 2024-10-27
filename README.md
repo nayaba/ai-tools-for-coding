@@ -35,7 +35,13 @@ So if submitting code that you didn't write is considered plagiarism, submitting
 #### 4. **Experiment with ChatGPT’s Limitations**
    - **Prompt to Try:** Type in, `How many r's are in strawberry?` See if ChatGPT gives the correct answer. This exercise shows that AI can make mistakes, especially with simple tasks, reinforcing why you need to develop a strong coding skill set of your own.
 
+---
 
+## When is it okay to copy?
+
+Sometimes as a developer you will _need_ to copy code.  An example for new developers is using a snippet to capitalize the first letter of a string in JavaScript. Many projects might need this, such as formatting names in a user profile or titles on a webpage.
+
+Instead of figuring out the code from scratch, new developers might look up a simple, common snippet. Standard snippets like this are frequently utilized by even senior developers to save time, and the developers have a _clear understanding_ of how the code works.  **This is not considered plagiarism and simply requires credit to the original source with something like a link somewhere in your codebase.**
 
 ---
 
