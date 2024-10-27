@@ -1,4 +1,4 @@
-# Using ChatGPT as a Coding Bootcamp Tool
+# Using ChatGPT as a Coding Tool
 
 **Objective:** By the end of this lesson, students will understand how to use ChatGPT effectively as a learning aid without letting it do the work for them. They will know when to turn to ChatGPT for assistance and when to rely on their skills to develop coding independence.
 
